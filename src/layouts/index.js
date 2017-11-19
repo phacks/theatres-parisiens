@@ -7,17 +7,7 @@ import styled from 'styled-components'
 import './index.css'
 import './font-face.css'
 
-const OuterWrapper = styled.div`
-  display: flex;
-  height: 100%;
-  flex-direction: column;
-  justify-content: center;
-  flex-wrap: nowrap;
-  align-items: stretch;
-  align-content: flex-start;
-`
-
-const InnerWrapper = styled.div`
+const Wrapper = styled.div`
   display: flex;
   overflow: hidden;
   margin: 30px;
@@ -53,16 +43,14 @@ const TemplateWrapper = ({ children }) => (
         { name: 'keywords', content: 'theatre, paris' },
       ]}
     />
-    <OuterWrapper>
-      <InnerWrapper>
-        <HeaderWrapper>
-          <Header>Théâtres Parisiens</Header>
-        </HeaderWrapper>
-        <ContentWrapper>
-          {children()}
-        </ContentWrapper>
-      </InnerWrapper>
-    </OuterWrapper>
+    <Wrapper>
+      <HeaderWrapper>
+        <Header>Théâtres Parisiens</Header>
+      </HeaderWrapper>
+      <ContentWrapper>
+        {children()}
+      </ContentWrapper>
+    </Wrapper>
   </div>
 )
 
