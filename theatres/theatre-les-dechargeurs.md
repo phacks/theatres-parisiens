@@ -7,6 +7,7 @@ email: ""
 address: "3 rue des Déchargeurs"
 phone: "01 42 36 00 02"
 fax: ""
+arrondissement: 1
 ---
 
 Le bâtiment qui abrite le théâtre **Les Déchargeurs** a été construit **en 1708** par **Marie Orceau** , veuve **Rouillé** , membre de la richissime famille **Pajot et Rouillé**. Les **Pajot et Rouillé** étaient les propriétaires de la  [Poste](https://fr.wikipedia.org/wiki/Poste), entreprise privée à l&#39;époque, et qui se trouvait à quelques mètres au 9 rue des Déchargeurs dans l&#39; [hôtel de Villeroy/hôtel de la Poste](https://fr.wikipedia.org/wiki/H%C3%B4tel_de_Villeroy_(Paris,_1er_arrondissement)).

@@ -7,6 +7,7 @@ email: "info@tenri-paris.com"
 address: "8-12, rue Bertin Poirée 75001"
 phone: "01 44 76 06 06"
 fax: "01 44 76 06 13"
+arrondissement: 1
 ---
 
 Fondée en 1971, l’Association Culturelle Franco-Japonaise de Tenri contribue, à travers la richesse des arts, d’activités culturelles et de cours de langues, aux échanges culturels franco-japonais. Elle est un lieu d’apprentissage, de culture et d’amitié pour les français et les japonais. L’ambiance y est simple et chaleureuse.

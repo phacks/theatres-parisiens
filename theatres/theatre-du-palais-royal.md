@@ -7,6 +7,7 @@ email: "tpr@theatrepalaisroyal.com"
 address: "38 rue Montpensier"
 phone: "01 42 97 59 76"
 fax: "01 42 61 42 50"
+arrondissement: 1
 ---
 
 Afin de casser le monopole de l'[Hôtel de Bourgogne](https://fr.wikipedia.org/wiki/H%C3%B4tel_de_Bourgogne_(Paris)), le [Cardinal de Richelieu](https://fr.wikipedia.org/wiki/Armand_Jean_du_Plessis_de_Richelieu) fait élever en 1637 un théâtre sur l'aile est du bâtiment du Palais-Royal (à l'emplacement de l'actuelle [Comédie-Française](https://fr.wikipedia.org/wiki/Com%C3%A9die-Fran%C3%A7aise)). L'inauguration a lieu en 1641. Le [Théâtre-Italien](https://fr.wikipedia.org/wiki/Th%C3%A9%C3%A2tre-Italien) et la troupe de [Molière](https://fr.wikipedia.org/wiki/Moli%C3%A8re) se partagent la scène entre 1662 et 1673.

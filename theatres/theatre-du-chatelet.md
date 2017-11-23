@@ -7,6 +7,7 @@ email: "relations-publiques@chatelet-theatre.com"
 address: "1 place du Chatelet, 2 rue Edouard Colonne"
 phone: "01 40 28 28 40"
 fax: ""
+arrondissement: 1
 ---
 
 Le **théâtre impérial du Châtelet** est construit entre [1860](https://fr.wikipedia.org/wiki/1860) et [1862](https://fr.wikipedia.org/wiki/1862) par [Gabriel Davioud](https://fr.wikipedia.org/wiki/Gabriel_Davioud) à la demande du [baron Haussmann](https://fr.wikipedia.org/wiki/Georges_Eug%C3%A8ne_Haussmann), à la même époque que l'actuel [théâtre de la Ville](https://fr.wikipedia.org/wiki/Th%C3%A9%C3%A2tre_de_la_Ville) qui lui fait face de l'autre côté de la [place du Châtelet](https://fr.wikipedia.org/wiki/Place_du_Ch%C3%A2telet). L'emplacement correspond à l'ancienne forteresse du [Grand Châtelet](https://fr.wikipedia.org/wiki/Grand_Ch%C3%A2telet), qui servit de prison et de tribunal sous l'[Ancien Régime](https://fr.wikipedia.org/wiki/Ancien_R%C3%A9gime), et qui fut détruit en [1808](https://fr.wikipedia.org/wiki/1808) durant le règne de [Napoléon 1er](https://fr.wikipedia.org/wiki/Napol%C3%A9on_Bonaparte). 

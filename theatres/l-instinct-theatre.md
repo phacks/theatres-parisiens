@@ -7,6 +7,7 @@ email: "linstincttheatre@aol.fr"
 address: "18 rue du Beaujolais"
 phone: "01 85 08 08 50, 09 50 62 18 98"
 fax: ""
+arrondissement: 1
 ---
 
 Ce théâtre est considéré comme fermé.

@@ -7,6 +7,7 @@ email: "informations@comedie-francaise.org"
 address: "Place Colette"
 phone: "01 44 58 15 15"
 fax: "01 44 58 15 50"
+arrondissement: 1
 ---
 
 La Comédie-Française est fondée par [ordonnance royale](https://fr.wikipedia.org/wiki/Ordonnance_royale) de [Louis XIV](https://fr.wikipedia.org/wiki/Louis_XIV_de_France) le [21 octobre](https://fr.wikipedia.org/wiki/21_octobre) [1680](https://fr.wikipedia.org/wiki/1680_au_th%C3%A9%C3%A2tre) pour fusionner les deux seules troupes parisiennes de l'époque, la troupe de l'[hôtel Guénégaud](https://fr.wikipedia.org/wiki/H%C3%B4tel_de_Gu%C3%A9n%C3%A9gaud) et celle de l'[hôtel de Bourgogne](https://fr.wikipedia.org/wiki/H%C3%B4tel_de_Bourgogne_(Paris)). Le 25 août, les comédiens s'étaient déjà réunis pour donner leur première représentation commune, composée de [Phèdre](https://fr.wikipedia.org/wiki/Ph%C3%A8dre_(Racine)) ([Racine](https://fr.wikipedia.org/wiki/Jean_Racine)) et des Carrosses d'Orléans ([La Chapelle](https://fr.wikipedia.org/wiki/Jean_de_La_Chapelle)). L'acte royal leur accorde le monopole de jouer à Paris, que les Comédiens-Français défendront jalousement au cours du [xviiie siècle](https://fr.wikipedia.org/wiki/XVIIIe_si%C3%A8cle), notamment contre les [Comédiens-Italiens](https://fr.wikipedia.org/wiki/Th%C3%A9%C3%A2tre_italien_de_Paris).
