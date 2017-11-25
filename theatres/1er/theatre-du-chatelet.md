@@ -1,6 +1,6 @@
 ---
 title: "Théâtre du Châtelet"
-url: "http://chatelet-theatre.com/"
+url: "chatelet-theatre.com"
 directors: "Ruth Mackenzie, Thomas Lauriot dit Prévost"
 seating: "2000"
 email: "relations-publiques@chatelet-theatre.com"

@@ -1,6 +1,6 @@
 ---
 title: "Comédie Française — Studio Théâtre"
-url: "www.comedie-francaise.fr/"
+url: "www.comedie-francaise.fr"
 directors: "Kim Pham, Eric Ruf"
 seating: "136"
 email: "informations@comedie-francaise.org"

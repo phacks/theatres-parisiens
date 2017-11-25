@@ -1,6 +1,6 @@
 ---
 title: "Théâtre Dalayrac / Le Soum Soum"
-url: "http://le-soum-soum.fr/"
+url: "le-soum-soum.fr"
 directors: ""
 seating: ""
 email: ""

@@ -1,6 +1,6 @@
 ---
 title: "Sentier des Halles"
-url: "http://lesentierdeshalles.fr/"
+url: "lesentierdeshalles.fr"
 directors: ""
 seating: "108 assise et 130 debout"
 email: "administration@lesentierdeshalles.fr"

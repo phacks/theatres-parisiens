@@ -1,6 +1,6 @@
 ---
 title: "L'instinct Théâtre"
-url: "www.instinct-theatre.com/"
+url: "www.instinct-theatre.com"
 directors: ""
 seating: "32"
 email: "linstincttheatre@aol.fr"

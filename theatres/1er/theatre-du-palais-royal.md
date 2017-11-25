@@ -1,6 +1,6 @@
 ---
 title: "Théâtre du Palais Royal"
-url: "www.theatrepalaisroyal.com/"
+url: "www.theatrepalaisroyal.com"
 directors: "Francis Nani, Sébastien Azzopardi"
 seating: "716"
 email: "tpr@theatrepalaisroyal.com"

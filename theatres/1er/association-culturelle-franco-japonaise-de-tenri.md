@@ -1,6 +1,6 @@
 ---
 title: "Association Culturelle Franco Japonaise de Tenri"
-url: "http://www.tenri-paris.com/"
+url: "www.tenri-paris.com"
 directors: ""
 seating: "70"
 email: "info@tenri-paris.com"

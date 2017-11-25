@@ -1,6 +1,6 @@
 ---
 title: "L'Opéra Comique"
-url: "www.opera-comique.com/"
+url: "www.opera-comique.com"
 directors: "Olivier Mantei"
 seating: "1250"
 email: "info@opera-comique.com"

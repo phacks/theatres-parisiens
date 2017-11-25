@@ -1,6 +1,6 @@
 ---
 title: "Théâtre Daunou"
-url: "www.theatre-daunou.com/"
+url: "www.theatre-daunou.com"
 directors: "Denise Petitdidier"
 seating: "450"
 email: "contact@theatre-daunou.com"

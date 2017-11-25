@@ -1,6 +1,6 @@
 ---
 title: "Théâtre Montorgueil"
-url: "www.theatremontorgueil.com/"
+url: "www.theatremontorgueil.com"
 directors: "Hazis Vardar"
 seating: "150"
 email: "resa-comediesvardar@live.fr"

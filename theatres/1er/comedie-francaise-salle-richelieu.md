@@ -1,6 +1,6 @@
 ---
 title: "Comédie Française — Salle Richelieu"
-url: "www.comedie-francaise.fr/"
+url: "www.comedie-francaise.fr"
 directors: "Kim Pham, Eric Ruf"
 seating: "862"
 email: "informations@comedie-francaise.org"

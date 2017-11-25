@@ -1,6 +1,6 @@
 ---
 title: "Théâtre de la Michodière"
-url: "www.michodiere.com/"
+url: "www.michodiere.com"
 directors: "Richard Caillat, Stéphane Hillel"
 seating: "700"
 email: "contact@michodiere.com"

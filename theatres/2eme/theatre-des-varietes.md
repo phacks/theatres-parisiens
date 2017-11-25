@@ -1,6 +1,6 @@
 ---
 title: "Théâtre des Variétés"
-url: "www.theatre-des-varietes.fr/"
+url: "www.theatre-des-varietes.fr"
 directors: "Jean-Manuel Bajen, Lénaic Lebrun"
 seating: "928"
 email: "contact@theatre-des-varietes.fr"

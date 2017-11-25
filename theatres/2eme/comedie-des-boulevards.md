@@ -1,6 +1,6 @@
 ---
 title: "Comédie des Boulevards"
-url: "www.comediedesboulevards.com/"
+url: "www.comediedesboulevards.com"
 directors: "Mickael Chetrit"
 seating: "100"
 email: "contact@verygoodshow.fr"

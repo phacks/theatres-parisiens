@@ -1,6 +1,6 @@
 ---
 title: "Théâtre Melo d'Amélie"
-url: "www.lemelodamelie.com/"
+url: "www.lemelodamelie.com"
 directors: "Jean-Luc Lopez, Olivier Payre, Xavier Letourneur"
 seating: "90"
 email: "resamelo@gmail.com"

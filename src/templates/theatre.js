@@ -111,7 +111,7 @@ export default ({ data }) => {
             </tr>
             <tr>
               <td>Site</td>
-              <td><a href={`htt//${post.frontmatter.url}`}>{post.frontmatter.url}</a></td>
+              <td><a href={`http://${post.frontmatter.url}`}>{post.frontmatter.url}</a></td>
             </tr>
             <tr>
               <td>Téléphone</td>

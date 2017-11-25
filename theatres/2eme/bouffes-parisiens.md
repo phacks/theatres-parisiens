@@ -1,6 +1,6 @@
 ---
 title: "Bouffes Parisiens"
-url: "www.bouffesparisiens.com/"
+url: "www.bouffesparisiens.com"
 directors: "Richard Caillat, Stéphane Hillel, Dominique Dumont"
 seating: "600"
 email: "info@tenri-paris.com"

@@ -1,6 +1,6 @@
 ---
 title: "Théâtre La Pépinière"
-url: "www.theatrelapepiniere.com/"
+url: "www.theatrelapepiniere.com"
 directors: "Antoine Coutrot, Emmanuel de Dietrich, Caroline Verdu"
 seating: "347"
 email: "contact@theatrelapepiniere.com"
