@@ -26,6 +26,7 @@ const TheatreItem = styled.h3`
 
 const StyledLink = styled(Link)`
   color: black;
+  -webkit-text-decoration-color: #409CF0;
   text-decoration-color: #409CF0;
   &:hover {
     color: #409CF0;

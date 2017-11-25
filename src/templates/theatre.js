@@ -19,6 +19,7 @@ const Description = styled.div`
 
   a {
     color: black;
+    -webkit-text-decoration-color: #409CF0;
     text-decoration-color: #409CF0;
     &:hover {
       color: #409CF0;
@@ -28,6 +29,7 @@ const Description = styled.div`
 
 const StyledLink = styled(Link)`
   color: black;
+  -webkit-text-decoration-color: #409CF0;
   text-decoration-color: #409CF0;
   &:hover {
     color: #409CF0;
@@ -70,6 +72,7 @@ const InfoTable = styled.table`
 
   a {
     color: black;
+    -webkit-text-decoration-color: #409CF0;
     text-decoration-color: #409CF0;
     &:hover {
       color: #409CF0;
