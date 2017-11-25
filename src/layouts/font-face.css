@@ -15,3 +15,21 @@
   font-weight: bold;
   font-style: normal;
 }
+
+@font-face {
+  font-family: 'IBM Plex Mono';
+  src: url('../fonts/IBMPlexMono-Regular.eot');
+  src: url('../fonts/IBMPlexMono-Regular-Latin1.woff2') format('woff2'),
+    url('../fonts/IBMPlexMono-Regular-Latin1.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'IBM Plex Mono';
+  src: url('../fonts/IBMPlexMono-SemiBold.eot');  
+  src: url('../fonts/IBMPlexMono-SemiBold-Latin1.woff2') format('woff2'),
+    url('../fonts/IBMPlexMono-SemiBold-Latin1.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+}

@@ -38,6 +38,8 @@ const InfoWrapper = styled.div`
 `
 
 const InfoTable = styled.table`
+  font-family: "IBM Plex Mono";
+  line-height: 1em;
   &:first-of-type {
     margin-right: 40px;
   }
@@ -49,6 +51,10 @@ const InfoTable = styled.table`
   td:first-child {
     text-align: right;
     font-weight: bold;
+  }
+
+  td:last-child {
+    padding-left: 10px;
   }
 
   a {
@@ -74,31 +80,31 @@ export default ({ data }) => {
         <InfoTable>
           <tbody>
             <tr>
-              <td>Direction :</td>
+              <td>Direction</td>
               <td>{post.frontmatter.directors}</td>
             </tr>
             <tr>
-              <td>Jauge :</td>
+              <td>Jauge</td>
               <td>{post.frontmatter.seating}</td>
             </tr>
             <tr>
-              <td>Adresse :</td>
+              <td>Adresse</td>
               <td>{post.frontmatter.address}</td>
             </tr>
             <tr>
-              <td>Email :</td>
+              <td>Email</td>
               <td>{post.frontmatter.email}</td>
             </tr>
             <tr>
-              <td>Site :</td>
-              <td><a href={`http://${post.frontmatter.url}`}>{post.frontmatter.url}</a></td>
+              <td>Site</td>
+              <td><a href={`htt//${post.frontmatter.url}`}>{post.frontmatter.url}</a></td>
             </tr>
             <tr>
-              <td>Téléphone :</td>
+              <td>Téléphone</td>
               <td>{post.frontmatter.phone}</td>
             </tr>
             <tr>
-              <td>Télécopie :</td>
+              <td>Télécopie</td>
               <td>{post.frontmatter.fax}</td>
             </tr>
           </tbody>
