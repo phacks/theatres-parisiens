@@ -57,7 +57,9 @@ const ARRONDISSEMENT_NAMES = {
 
 const TheatreList = (props) =>
   (<div>
-    {props.theatres.map((theatre) =>
+    {props.theatres.sort(
+        (a, b) => a.frontmatter.title.toLowerCase() > b.frontmatter.title.toLowerCase()
+      ).map((theatre) =>
       (<div key={theatre.id}>
         <TheatreItem>
           <StyledLink to={theatre.fields.slug}>
@@ -77,7 +79,9 @@ export default ({ data }) => {
     )
   return (
     <div>
-      {keys(theatresByArrondissement).map((arrondissement) =>
+      {keys(theatresByArrondissement).sort(
+        (a, b) => a.toLowerCase() > b.toLowerCase()
+      ).map((arrondissement) =>
         <ArrondissmentList key={arrondissement}>
           <SubHeader>
             Théâtres du <span dangerouslySetInnerHTML={{__html: ARRONDISSEMENT_NAMES[arrondissement]}} /> arrondissement
