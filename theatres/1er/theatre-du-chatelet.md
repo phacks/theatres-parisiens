@@ -39,4 +39,4 @@ Après une fermeture d'une saison afin de moderniser la cage de scène, le Thé�
   
 [Jean-Luc Choplin](https://fr.wikipedia.org/wiki/Jean-Luc_Choplin) crée en [2010](https://fr.wikipedia.org/wiki/2010_en_musique) une nouvelle série de concerts : Concert Tôt, Concert Tea à destination des familles avec des œuvres de [Beethoven](https://fr.wikipedia.org/wiki/Beethoven), [Duke Ellington](https://fr.wikipedia.org/wiki/Duke_Ellington), [Igor Stravinsky](https://fr.wikipedia.org/wiki/Igor_Stravinsky), [Mozart](https://fr.wikipedia.org/wiki/Mozart) et des thématiques telles que le [cirque](https://fr.wikipedia.org/wiki/Cirque), le [tango](https://fr.wikipedia.org/wiki/Tango_(danse)), le [Jazz Nouvelle-Orléans](https://fr.wikipedia.org/wiki/Jazz_Nouvelle-Orl%C3%A9ans), le [ballet classique](https://fr.wikipedia.org/wiki/Ballet) et le [baroque](https://fr.wikipedia.org/wiki/Musique_baroque).
 
-![Théâtre du Châtelet 2](./images/theatre-du-chatelet/theatre-du-chatelet-2.jpg)
+![Théâtre du Châtelet 2](../images/1er/theatre-du-chatelet/theatre-du-chatelet-2.jpg)

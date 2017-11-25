@@ -18,6 +18,6 @@ L’ACFJT organise, chaque mois, un « pot amical » afin de favoriser les écha
 
 L’Espace Culturel Bertin Poirée, est un lieu dédié aux expositions et aux arts du spectacle. L’ECBP est particulièrement attentif à l’accueil de jeunes artistes. Peinture, sculpture, céramique, photographie, gravure, … sont exposés avec soin par des artistes de toutes nationalités.
 
-![Association Culturelle Franco Japonaise de Tenri](./images/association-culturelle-franco-japonaise-de-tenri-1.jpg)
+![Association Culturelle Franco Japonaise de Tenri](../images/1er/association-culturelle-franco-japonaise-de-tenri/association-culturelle-franco-japonaise-de-tenri-1.jpg)
 
 L’Espace Culturel Bertin Poirée propose des spectacles de danse et de butô, du théâtre et des concerts. Trois festivals annuels sont organisés : Dance Box, Festival Buto et Festival Bertin Poirée.

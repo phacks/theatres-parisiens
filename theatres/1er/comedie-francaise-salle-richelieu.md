@@ -22,7 +22,7 @@ La nouvelle installation est dotée d'un [café-caveau](https://fr.wikipedia.org
 
 **En 1812**, l'empereur [Napoléon Ier](https://fr.wikipedia.org/wiki/Napol%C3%A9on_Ier), en pleine [campagne de Russie](https://fr.wikipedia.org/wiki/Campagne_de_Russie), décide de réorganiser la **Comédie-Française** en signant le **15 octobre**, le décret dit « de Moscou » qui comporte 87 articles, et qui reste, à peu de choses près, le statut encore en vigueur aujourd'hui. Salle à l’italienne, théâtre parmi les plus réputés dans le monde, la Salle Richelieu est le fruit des conflits et des passions qui animent la France à la fin du siècle des lumières.Voulu par le **duc de Chartres** pour être un opéra, ce bâtiment est construit par l’architecte **Victor Louis** sans rompre l’harmonie du Palais-Royal.
 
-![Comédie Française — salle Richelieu](/images/comedie-francaise-salle-richelieu/comedie-francaise-salle-richelieu-1.jpg)
+![Comédie Française — salle Richelieu](../images/1er/comedie-francaise-salle-richelieu/comedie-francaise-salle-richelieu-1.jpg)
 
 **Au XIX ème siècle**, les travaux de **Prosper Chabrol** (1860-64) complètent le volume originel en l’augmentant de l’escalier d’honneur et du foyer du public où actuellement se font face, saisis dans le marbre, Voltaire et Molière.
 

@@ -12,7 +12,7 @@ arrondissement: 1
 
 Afin de casser le monopole de l'[Hôtel de Bourgogne](https://fr.wikipedia.org/wiki/H%C3%B4tel_de_Bourgogne_(Paris)), le [Cardinal de Richelieu](https://fr.wikipedia.org/wiki/Armand_Jean_du_Plessis_de_Richelieu) fait élever en 1637 un théâtre sur l'aile est du bâtiment du Palais-Royal (à l'emplacement de l'actuelle [Comédie-Française](https://fr.wikipedia.org/wiki/Com%C3%A9die-Fran%C3%A7aise)). L'inauguration a lieu en 1641. Le [Théâtre-Italien](https://fr.wikipedia.org/wiki/Th%C3%A9%C3%A2tre-Italien) et la troupe de [Molière](https://fr.wikipedia.org/wiki/Moli%C3%A8re) se partagent la scène entre 1662 et 1673.
 
-![Théâtre du Palais Royal 1](/images/theatre-du-palais-royal/theatre-du-palais-royal-1.jpg)
+![Théâtre du Palais Royal 1](../images/1er/theatre-du-palais-royal/theatre-du-palais-royal-1.jpg)
 
 À la mort de son ancien collaborateur, [Lully](https://fr.wikipedia.org/wiki/Jean-Baptiste_Lully) récupère les lieux pour y fonder l'[Académie royale de musique](https://fr.wikipedia.org/wiki/Acad%C3%A9mie_royale_de_musique). Il renvoie la [troupe de Molière](https://fr.wikipedia.org/wiki/Troupe_de_Moli%C3%A8re) qui s'installe dans l'[Hôtel de Guénégaud](https://fr.wikipedia.org/wiki/Salle_du_Jeu_de_paume_de_la_Bouteille) et charge [Carlo Vigarani](https://fr.wikipedia.org/wiki/Carlo_Vigarani) de remplacer la [machinerie](https://fr.wikipedia.org/wiki/Machinerie_(th%C3%A9%C3%A2tre)) installée en 1645 par [Giacomo Torelli](https://fr.wikipedia.org/wiki/Giacomo_Torelli) par une nouvelle capable de supporter les imposants décors de ses futurs [Opéras](https://fr.wikipedia.org/wiki/Op%C3%A9ra_(musique)). Son gendre, [Jean-Nicolas de Francine](https://fr.wikipedia.org/wiki/Jean-Nicolas_de_Francine), lui succède à sa mort en 1687.
 
@@ -20,7 +20,7 @@ Cette première salle est détruite par un incendie le 6 avril 1763. Rouverte le
 
 [Philippe d'Orléans](https://fr.wikipedia.org/wiki/Louis-Philippe_d%27Orl%C3%A9ans_(1747-1793)) (futur Philippe-Égalité), qui venait d'hériter de [son père](https://fr.wikipedia.org/wiki/Louis-Philippe_d%27Orl%C3%A9ans_(1725-1785)) le [Palais-Royal](https://fr.wikipedia.org/wiki/Palais-Royal), profite de l'occasion pour réaménager les jardins en faisant édifier par [Victor Louis](https://fr.wikipedia.org/wiki/Victor_Louis) un ensemble d'immeubles uniformes, comportant des galeries marchandes au rez-de-chaussée surmontées d’appartements d’habitation, entouré de trois nouvelles rues baptisées des titres de ses trois fils ([Valois](https://fr.wikipedia.org/wiki/Louis-Philippe_Ier), [Beaujolais](https://fr.wikipedia.org/wiki/Louis-Charles_d%27Orl%C3%A9ans) et [Montpensier](https://fr.wikipedia.org/wiki/Antoine_d%27Orl%C3%A9ans_(1775-1807))). L'ancienne salle est reconstruite et confiée en 1785 à la troupe de [Variétés-Amusantes](https://fr.wikipedia.org/wiki/Th%C3%A9%C3%A2tre_des_Vari%C3%A9t%C3%A9s-Amusantes) chassée du boulevard Saint-Martin par l'Académie royale de musique voisine.
 
-![Théâtre du Palais Royal 2](/images/theatre-du-palais-royal/theatre-du-palais-royal-2.jpg)
+![Théâtre du Palais Royal 2](../images/1er/theatre-du-palais-royal/theatre-du-palais-royal-2.jpg)
 
 À l’opposé de la [rue de Montpensier](https://fr.wikipedia.org/wiki/Rue_de_Montpensier), dans le péristyle de Joinville, Victor Louis édifie une autre petite salle destinée à présenter les spectacles de marionnettes d'un certain Lomel. Elle est inaugurée le 23 octobre 1784.
 
