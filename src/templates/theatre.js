@@ -2,6 +2,8 @@ import React from "react"
 import styled from "styled-components"
 import Link from 'gatsby-link'
 
+import { media } from '../layouts/style-utils';
+
 const SubHeader = styled.h2`
   font-family: 'IBM Plex Sans';
   margin: auto;
@@ -40,6 +42,11 @@ const InfoWrapper = styled.div`
 const InfoTable = styled.table`
   font-family: "IBM Plex Mono";
   line-height: 1em;
+  ${media.handheld`
+    table-layout: fixed;
+    width: 100%;  
+  `}
+
   &:first-of-type {
     margin-right: 40px;
   }
@@ -51,10 +58,14 @@ const InfoTable = styled.table`
   td:first-child {
     text-align: right;
     font-weight: bold;
+    ${media.handheld`
+      width: 35%;
+    `}
   }
 
   td:last-child {
     padding-left: 10px;
+    word-wrap: break-word;
   }
 
   a {
