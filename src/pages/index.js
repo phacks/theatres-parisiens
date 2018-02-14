@@ -81,7 +81,7 @@ export default ({ data }) => {
   return (
     <div>
       {keys(theatresByArrondissement).sort(
-        (a, b) => a.toLowerCase() > b.toLowerCase()
+        (a, b) => parseInt(a, 10) > parseInt(b, 10)
       ).map((arrondissement) =>
         <ArrondissmentList key={arrondissement}>
           <SubHeader>
