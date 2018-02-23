@@ -80,9 +80,7 @@ export default ({ data }) => {
     )
   return (
     <div>
-      {keys(theatresByArrondissement).sort(
-        (a, b) => parseInt(a, 10) > parseInt(b, 10)
-      ).map((arrondissement) =>
+      {keys(theatresByArrondissement).map((arrondissement) =>
         <ArrondissmentList key={arrondissement}>
           <SubHeader>
             Théâtres du <span dangerouslySetInnerHTML={{__html: ARRONDISSEMENT_NAMES[arrondissement]}} /> arrondissement
