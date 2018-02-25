@@ -38,7 +38,7 @@ const Header = styled.h1`
 
 const ContentWrapper = styled.div`
   width: calc(100% - 160px);
-  margin: 100px;
+  margin: 50px 100px;
   ${media.handheld`
     width: calc(100% - 40px);
     margin: 20px;
