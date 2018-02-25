@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Default Starter`,
+    title: `Théâtres Parisiens`,
   },
   plugins: [
     {
@@ -23,6 +23,13 @@ module.exports = {
           }
         ]
       }
+    },
+    {
+      resolve: `gatsby-plugin-google-analytics`,
+      options: {
+        trackingId: "UA-92277502-3",
+        head: true,
+      },
     },
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-styled-components`
