@@ -1,4 +1,5 @@
 import React from "react"
+import {Helmet} from "react-helmet"
 import styled from "styled-components"
 import Link from 'gatsby-link'
 
@@ -84,6 +85,9 @@ export default ({ data }) => {
   const post = data.markdownRemark
   return (
     <div>
+       <Helmet>
+          <title>{post.frontmatter.title}</title>
+        </Helmet>
       <StyledLink to={'/'}>
         Retour à la liste des théâtres
       </StyledLink>
