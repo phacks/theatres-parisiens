@@ -13,5 +13,3 @@ arrondissement: 1
 Ce théâtre est considéré comme fermé.
 
 ![L'Instinct Théâtre 1](../images/1er/l-instinct-theatre/l-instinct-theatre-1.jpg)
-
-![L'Instinct Théâtre 2](../images/1er/l-instinct-theatre/l-instinct-theatre-2.jpg)

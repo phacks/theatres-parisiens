@@ -10,7 +10,7 @@ fax: ""
 arrondissement: 6
 ---
 
-![MPAA Saint-Germain](../images/6eme/mpaa-saint-germain/mpaa-saint-germain-1.jpg)
+![MPAA Saint-Germain](../images/6eme/mpaa-saint-germain/mpaa-saint-germain-1.png)
 
 **La MPAA**, établissement culturel de la Ville de Paris, a pour mission de soutenir, développer et favoriser les pratiques artistiques en amateur de tous les parisiens.
 

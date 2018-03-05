@@ -11,7 +11,6 @@ arrondissement: 3
 ---
 
 ![Le République 2](../images/3eme/le-republique/le-republique-2.jpg)
-![Le République 3](../images/3eme/le-republique/le-republique-3.jpg)
 
 **Le République** est un célèbre cabaret parisien situé 1 boulevard Saint-Martin, boulevard qui part de la place de la République. Jusqu'en 2014, il était connu sous le nom de **Caveau de la République.**
 
@@ -27,3 +26,4 @@ arrondissement: 3
 
 Aujourd’hui le théâtre est dirigé par **Jean-Philippe Bouchard**.
 
+![Le République 3](../images/3eme/le-republique/le-republique-3.jpg)

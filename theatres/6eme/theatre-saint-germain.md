@@ -10,7 +10,7 @@ fax: ""
 arrondissement: 6
 ---
 
-![Théâtre Saint-Germain](../images/6eme/theatre-saint-germain/theatre-saint-germain-1.jpg)
+![Théâtre Saint-Germain](../images/6eme/theatre-saint-germain/theatre-saint-germain-2.jpg)
 
 Situé au cœur de Paris sur la rive gauche, le **Théâtre Saint-Germain**, lieu phare des années folles, renaît et se reconverti en établissement évènementiel.
 

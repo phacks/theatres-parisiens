@@ -16,8 +16,6 @@ Une première salle de ce nom s’était ouverte **en 1772** sur le boulevard ap
 
 **En 1807** on la cite encore, avec Montmartre, Belleville et le Ranelagh, parmi les théâtres qu’un décret impérial autorisait dans les faubourgs. Elle avait dû disparaitre depuis quelques années lorsque **Pierre-Jacques Seveste** (qui, **en 1817**, avait obtenu de la monarchie restaurée un privilège théâtral pour la banlieue) releva le nom de **Théâtre du Mont Parnasse**. Il s’installa sur le grand chemin au-delà de la barrière d’Enfer, qui devait devenir la rue de la Gaîté. C’était alors une route plantée d’acacias, bordée d’auberges, de guinguettes, de bals champêtres. Elle évoluera certes comme tout le quartier, mais elle restera « la rue de la Joie ».
 
-![Théâtre Montparnasse](../images/14eme/theatre-montparnasse/theatre-montparnasse-1.jpg)
-
 De Huysmans à Charles-Louis Philippe, de Bruant à Carco, toute une littérature la célébrera.
 Le théâtre du bois et de plâtre dura **de 1819 à 1856**. Dans ce local étroit de 350 places, éclairé par des quinquets et chauffé par un poêle central sur lequel les spectateurs faisaient mijoter leur dîner pour le manger à l’entracte, on donnait des programmes interminables où des vaudevilles encadraient un drame. Cela faisait dix ou douze actes qui, commencés à six heures, ne s’achevaient qu’après minuit.
 
@@ -41,3 +39,5 @@ La jauge actuelle est de 715 places.
 
 Le **Théâtre Montparnasse** est inscrit aux monuments historiques par un **arrêté du 3 avril 1984**.
 Parallèlement, **en 1998**, elle procède à la rénovation du **Petit Montparnasse** qui rouvre **en 2003** et devient une salle de 200 places consacrée à la découverte de jeunes talents.
+
+![Théâtre Montparnasse](../images/14eme/theatre-montparnasse/theatre-montparnasse-2.jpg)

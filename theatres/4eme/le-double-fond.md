@@ -10,6 +10,8 @@ fax: ""
 arrondissement: 4
 ---
 
+![Le Double Fond](../images/4eme/le-double-fond/le-double-fond-1.png)
+
 **En 1988 Dominique Duvivier** achète une ancienne boîte de nuit antillaise qui s’appelait « Le Colombo » pour créer le premier théâtre entièrement consacré à la magie en Europe : un pari osé auquel personne ne croyait… à part lui !
 Avec **Gaëtan Bloom**, il choisit de baptiser l’endroit **« Le Double Fond »**. L’ouverture a lieu **le 1er juin.**
 **En 1989** les spectacles sont assurés par **Dominique Duvivier et Gaëtan Bloom**. Eugene Burger (USA) donne la 1ère conférence du Double Fond.

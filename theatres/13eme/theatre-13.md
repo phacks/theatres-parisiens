@@ -10,11 +10,8 @@ fax: ""
 arrondissement: 13
 ---
 
-![Théâtre 13](../images/13eme/theatre-13/theatre-13-1.jpg)
-
 Théâtre géré par l'Association parisienne pour l'Animation culturelle et sportive et financé par la Ville de Paris, le **Théâtre 13** propose depuis sa création **en 1981** des spectacles exigeants, privilégiant la qualité du texte et des interprètes. Son objectif est de faire découvrir et de suivre de nouveaux talents (metteurs en scène, comédiens, auteurs) et d'apporter un regard nouveau sur les œuvres de répertoire.
 
-![Théâtre 13](../images/13eme/theatre-13/theatre-13-3.jpg)
 
 Tremplin de nombreuses jeunes compagnies indépendantes, il leur permet de rencontrer la presse nationale et les programmateurs de théâtres, étant ainsi à l'origine de tournées dans toute la France.
 
@@ -22,6 +19,8 @@ Tremplin de nombreuses jeunes compagnies indépendantes, il leur permet de renco
 
 
 **SEINE : 30 rue du Chevaleret**
+
+![Théâtre 13](../images/13eme/theatre-13/theatre-13-1.jpg)
 
 **En juillet 2011**, la Ville de Paris confie au **Théâtre 13** la gestion d'une deuxième salle, située à proximité de la Bibliothèque F. Mitterand, initialement destinée à accueillir la Compagnie du Lierre de Farid Paya.
 
@@ -37,6 +36,8 @@ Grâce à cette deuxième salle, le Théâtre 13 deviendra un centre de créatio
 
 
 **JARDIN : 103A boulevard Auguste-Blanqui**
+
+![Théâtre 13](../images/13eme/theatre-13/theatre-13-3.jpg)
 
 **Le Théâtre 13/Jardin** était à l’origine la salle de spectacle d’une MJC qui occupait l’ensemble du bâtiment situé au 24 rue Daviel et construit dans **les années 60**.
 

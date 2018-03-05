@@ -16,7 +16,7 @@ Metteur en scène-Pédagogue, **Atillio Maggiulli** formé par **Giorgio Strehle
 
 Il a fondé le **Théâtre de La Comédie Italienne** en **juillet 1975** dans l’ancien siège de l’armée du salut où il a mis en scène plus de cinquante pièces de Commedia dell'Arte et de Théâtre Baroque-Fantastique. **Hélène Estrade** est la co-fondatrice du **Théâtre de la Comédie Italienne**, où elle interprète tous les premiers rôles féminins.
 
-![La Comédie Italienne](../images/14eme/la-comedie-italienne/la-comedie-italienne-1.jpg)
+![La Comédie Italienne](../images/14eme/la-comedie-italienne/la-comedie-italienne-2.jpg)
 
 **En juin 1980** Fondation du **Théâtre de la Comédie Italienne**, 17 rue de la Gaîté à Paris, dans un ancien commissariat de police.
 

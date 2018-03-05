@@ -10,6 +10,8 @@ fax: "01 44 58 15 50"
 arrondissement: 1
 ---
 
+![Comédie Française — Studio Théâtre](../images/1er/comedie-francaise-studio-theatre/comedie-francaise-studio-theatre-1.png)
+
 **En novembre 1996**, à quelques centaines de mètres de la Salle Richelieu, le troisième théâtre de la Comédie-Française ouvre ses portes.Son nom, le Studio-Théâtre, est une référence au premier Studio du Théâtre d’Art de Moscou voulu par Stanislavski en 1912. En appelant de ses voeux un lieu dont les proportions permettraient l’élaboration de spectacles favorisant « quelque chose de particulièrement intime, allant droit au coeur des spectateurs », Stanislavski généra un besoin. Afin de réaliser pour la Comédie-Française un projet de cette nature, **Jean-Pierre Miquel**, alors administrateur, s’adressa à l’architecte **Michel Sené**.
 
 La galerie du Carrousel, qui conduit de la rue de Rivoli au musée du Louvre, venait d’être creusée. La réussite espérée ne pouvait être que le fruit d’un délicat et savant compromis entre les utopies d’un nouvel espace théâtral et les énormes contraintes liées à la topographie des lieux. Parvenir à dégager, sans jamais avoir l’impression d’exiguïté, tant d’éléments : une scène de 50 m2, quatre loges, une cabine pour la régie technique et un volume suffisamment grand pour y installer sur des gradins 136 spectateurs avec, pour tous, une visibilité parfaite, est un véritable tour de force.

@@ -10,6 +10,8 @@ fax: ""
 arrondissement: 18
 ---
 
+![L'Atalante](../images/18eme/l-atalante/l-atalante-1.png)
+
 _Dans la mythologie grecque, Atalante est une héroïne. Deux traditions existent à son sujet dans la mythologie grecque, toutes les deux mettant l'accent sur son refus initial du mariage et des performances physiques hors du commun pour une femme. Atalante a régulièrement inspiré les artistes depuis l'Antiquité jusqu'à l'époque actuelle._
 
 **De 1977 à 1991 Agathe Alexis** fonde et codirige avec **Alain Alexis Barsacq** la Compagnie des Matinaux.

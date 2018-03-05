@@ -15,13 +15,11 @@ fax: ""
 arrondissement: 8
 ---
 
-![Théâtre des Mathurins](../images/8eme/theatre-des-mathurins/theatre-des-mathurins-1.jpg)
+![Théâtre des Mathurins](../images/8eme/theatre-des-mathurins/theatre-des-mathurins-2.jpg)
 
 **Dés 1893** Il existait à cet emplacement un grand salon, susceptible d’être loué, ouvert au public et pouvant accueillir au grand maximum 300 personnes. Il n’y avait à l’époque ni de scène, ni même d’estrade ou de loges d’artistes. On y organisait plutôt des concerts.
 
 **En 1897** La salle est modifiée une première fois  par l’architecte Salvan puis **en 1898** par Rochet pour devenir la **salle des Mathurins** inaugurée **le 10 octobre** de la même année sous la direction de la divette Marguerite Deval.
-
-![Théâtre des Mathurins](../images/8eme/theatre-des-mathurins/theatre-des-mathurins-2.jpg)
 
 **En 1900 Marguerite Deval** en assure la direction.
 
