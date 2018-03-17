@@ -1,6 +1,6 @@
 ---
 title: "Théâtre de Marionnettes du Parc G. Brassens"
-url: "http://www.marionnettes-parc-brassens.fr/"
+url: "www.marionnettes-parc-brassens.fr/"
 directors: "Philippe Casidanus"
 seating: ""
 email: "info@marionnettes-parc-brassens"

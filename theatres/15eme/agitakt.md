@@ -1,6 +1,6 @@
 ---
 title: "Agitakt"
-url: "Bertrand Saint"
+url: "www.arcadi.fr/point-doc/repertoires/lieux/bdd/lieu.807/"
 directors: "Bertrand Saint"
 seating: "40"
 email: ""

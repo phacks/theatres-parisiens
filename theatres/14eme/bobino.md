@@ -1,6 +1,6 @@
 ---
 title: "Bobino"
-url: "http://bobino.fr/"
+url: "bobino.fr/"
 directors: "Jean-Marc Dumontet, Alexis Trias"
 seating: "850"
 email: "administration@bobino.fr"

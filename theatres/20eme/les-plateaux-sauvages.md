@@ -1,6 +1,6 @@
 ---
 title: "Les Plateaux Sauvages"
-url: "http://lesplateauxsauvages.fr/"
+url: "lesplateauxsauvages.fr/"
 directors: "Laetitia Guédon"
 seating: ""
 email: "info@lesplateauxsauvages.fr"

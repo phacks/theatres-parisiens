@@ -1,6 +1,6 @@
 ---
 title: "Théâtre de l'Echo"
-url: "http://echotheatre.wixsite.com/echo"
+url: "echotheatre.wixsite.com/echo"
 directors: ""
 seating: "49"
 email: "inna.clemente2@gmail.com"

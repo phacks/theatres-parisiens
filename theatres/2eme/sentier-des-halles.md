@@ -10,7 +10,7 @@ fax: ""
 arrondissement: 2
 ---
 
-Le **Sentier des Halles** se trouve sur la **rue d'Aboukir** . Elle a été nommée, comme les voies adjacentes à la [place du Caire](https://fr.wikipedia.org/wiki/Place_du_Caire "Place du Caire"), d'après une victoire remportée en [Égypte](https://fr.wikipedia.org/wiki/%C3%89gypte "Égypte") par l'armée française en 1799.
+Le **Sentier des Halles** se trouve sur la **rue d'Aboukir** . Elle a été nommée, comme les voies adjacentes à la [place du Caire](fr.wikipedia.org/wiki/Place_du_Caire "Place du Caire"), d'après une victoire remportée en [Égypte](fr.wikipedia.org/wiki/%C3%89gypte "Égypte") par l'armée française en 1799.
 
 ![Sentier des Halles](../images/2eme/sentier-des-halles/sentier-des-halles.png)
 

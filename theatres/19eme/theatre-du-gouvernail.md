@@ -1,6 +1,6 @@
 ---
 title: "Théâtre du Gouvernail"
-url: "http://theatredugouvernail.fr/"
+url: "theatredugouvernail.fr/"
 directors: ""
 seating: "50"
 email: "contact@theatredugouvernail.fr"

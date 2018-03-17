@@ -1,6 +1,6 @@
 ---
 title: "La Boule Noire"
-url: "http://www.laboule-noire.fr/"
+url: "www.laboule-noire.fr/"
 directors: ""
 seating: "120"
 email: "info@laboule-noire.fr"

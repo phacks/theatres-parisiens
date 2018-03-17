@@ -4,7 +4,7 @@ url: ""
 directors: ""
 seating: "381"
 email: ""
-address: ""
+address: "4 square Rapp"
 phone: "01 45 55 67 63"
 fax: "01 45 55 67 63"
 arrondissement: 7

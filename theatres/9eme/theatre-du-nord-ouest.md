@@ -1,6 +1,6 @@
 ---
 title: "Théâtre du Nord-Ouest"
-url: "http://theatredunordouest.com/"
+url: "theatredunordouest.com/"
 directors: "Jean-Luc Jeener"
 seating: "Salle Laborey 120, Salle Economidès 80"
 email: "public@theatredunordouest.com"

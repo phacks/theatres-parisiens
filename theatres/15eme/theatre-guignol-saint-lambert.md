@@ -1,6 +1,6 @@
 ---
 title: "Théâtre Guignol Saint-Lambert"
-url: "http://guignol.fr/"
+url: "www.parisinfo.com/musee-monument-paris/138958/Guignol-Saint-Lambert"
 directors: ""
 seating: ""
 email: "info@guignol.fr"

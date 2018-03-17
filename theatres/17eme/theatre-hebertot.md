@@ -1,6 +1,6 @@
 ---
 title: "Théâtre Hébertot"
-url: "http://theatrehebertot.com/"
+url: "theatrehebertot.com/"
 directors: "Francis Lombrail"
 seating: "627"
 email: ""

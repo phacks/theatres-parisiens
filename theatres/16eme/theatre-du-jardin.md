@@ -1,6 +1,6 @@
 ---
 title: "Théâtre du Jardin"
-url: "http://jardindacclimatation.fr/"
+url: "jardindacclimatation.fr/"
 directors: ""
 seating: ""
 email: "infos@jardindacclimatation.fr"

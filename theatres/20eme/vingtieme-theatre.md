@@ -1,6 +1,6 @@
 ---
 title: "Vingtième Théâtre"
-url: "www.vingtiemetheatre.com/"
+url: ""
 directors: "Pascal Martinet"
 seating: "245"
 email: "administration.20@orange.fr"

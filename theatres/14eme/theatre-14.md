@@ -1,6 +1,6 @@
 ---
 title: "Théâtre 14"
-url: "http://theatre14.fr/"
+url: "theatre14.fr/"
 directors: "Emmanuel Dechartre"
 seating: "192"
 email: "contact@theatre14.fr"

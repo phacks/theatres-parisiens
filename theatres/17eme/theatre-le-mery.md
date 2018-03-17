@@ -1,10 +1,10 @@
 ---
 title: "Théâtre le Méry"
-url: "www.theatrelemetropole.com/"
+url: ""
 directors: ""
-seating: ""
+seating: "240"
 email: ""
-address: ""
+address: "7 Place de Clichy"
 phone: ""
 fax: ""
 arrondissement: 17

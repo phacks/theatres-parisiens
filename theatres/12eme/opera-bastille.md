@@ -1,6 +1,6 @@
 ---
 title: "Opéra Bastille"
-url: "https://www.operadeparis.fr/"
+url: "www.operadeparis.fr/"
 directors: "Stéphane Lissner"
 seating: "Grande salle 2745, Amphithéâtre 450, Studio 237"
 email: ""

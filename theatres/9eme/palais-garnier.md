@@ -1,6 +1,6 @@
 ---
 title: "Palais Garnier"
-url: "https://www.operadeparis.fr/"
+url: "www.operadeparis.fr/"
 directors: "Stéphane Lissner"
 seating: "2010"
 email: ""

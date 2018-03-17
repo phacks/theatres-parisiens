@@ -1,6 +1,6 @@
 ---
 title: "Salle Wagram"
-url: "http://www.salle-wagram.fr/"
+url: "www.salle-wagram.fr/"
 directors: ""
 seating: "800"
 email: ""

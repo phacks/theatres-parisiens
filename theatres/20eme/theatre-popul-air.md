@@ -1,9 +1,9 @@
 ---
 title: "Théâtre Popul'Air"
-url: "http://theatrepopulair.over-blog.com/"
+url: "theatrepopulair.over-blog.com/"
 directors: ""
 seating: "55"
-email: "https://www.facebook.com/theatre.populair/#"
+email: "www.facebook.com/theatre.populair/#"
 address: "36 rue Henri Chevreau"
 phone: "01 46 36 74 15"
 fax: ""

@@ -1,6 +1,6 @@
 ---
 title: "Théâtre de Dix Heures"
-url: "https://theatrededixheures.fr/"
+url: "theatrededixheures.fr/"
 directors: "Roméo Cirone"
 seating: "140"
 email: "reservations@dix-heures.net"

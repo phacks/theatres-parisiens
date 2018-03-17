@@ -1,6 +1,6 @@
 ---
 title: "Théâtre Pandora"
-url: "https://www.pandorabastille.com/"
+url: "www.pandorabastille.com/"
 directors: "Frédéric Brasilio"
 seating: "25"
 email: "tousaupandora@gmail.com"

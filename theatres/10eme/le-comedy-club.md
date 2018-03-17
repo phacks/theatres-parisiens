@@ -1,5 +1,5 @@
 ---
-title: "Le Comdy Club"
+title: "Le Comedy Club"
 url: "www.lecomedyclub.fr/"
 directors: "Karim Debbouze"
 seating: "157 (assis) 250 (debout)"

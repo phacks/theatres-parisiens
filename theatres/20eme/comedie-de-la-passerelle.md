@@ -1,6 +1,6 @@
 ---
 title: "Comédie de la Passerelle"
-url: "http://comediedelapasserelle.blogspot.com/"
+url: "comediedelapasserelle.blogspot.com/"
 directors: "Fabienne Galula, Fabrice Feltzinger"
 seating: "70"
 email: "comediedelapasserelle@yahoo.fr"

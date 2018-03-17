@@ -1,6 +1,6 @@
 ---
 title: "Théâtre de Fortune"
-url: "http://www.theatredefortune.net/"
+url: "www.theatredefortune.net/"
 directors: ""
 seating: "40"
 email: "contact@theatredefortune.net"

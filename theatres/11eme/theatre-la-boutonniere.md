@@ -1,6 +1,6 @@
 ---
 title: "Théâtre la Boutonnière"
-url: "http://laboutonniere.com/"
+url: "laboutonniere.com/"
 directors: "Habib Naghmouchin, Cécile Lehn"
 seating: "50"
 email: "theatre@laboutonniere.com"

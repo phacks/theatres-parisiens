@@ -1,6 +1,6 @@
 ---
 title: "Théâtre 13"
-url: "http://theatre13.com/"
+url: "theatre13.com/"
 directors: "Colette Nucci, Fabian Chappuis"
 seating: "théâtre Seine 224, théâtre Jardin 250"
 email: "colettenucci@theatre13.com"

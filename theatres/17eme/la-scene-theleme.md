@@ -1,6 +1,6 @@
 ---
 title: "La Scène Thélème"
-url: "http://www.lascenetheleme.fr/"
+url: "www.lascenetheleme.fr/"
 directors: "Jean-Marie Gurné, Frédéric Pedrono"
 seating: ""
 email: "contact@lascenetheleme.fr"

@@ -1,6 +1,6 @@
 ---
 title: "Centre Culturel Suisse"
-url: "http://www.ccsparis.com/"
+url: "www.ccsparis.com/"
 directors: "Jean-Paul Felley
 Olivier Kaeser
 "

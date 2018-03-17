@@ -1,6 +1,6 @@
 ---
 title: "Théâtre Montmartre Galabru"
-url: "http://theatregalabru.com/"
+url: "theatregalabru.com/"
 directors: "Eric Reynaud-Fourton, Marc Riso"
 seating: "94"
 email: "tmg75018@gmail.com"

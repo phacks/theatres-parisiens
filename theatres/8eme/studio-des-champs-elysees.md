@@ -1,6 +1,6 @@
 ---
 title: "Studio des Champs Elysées"
-url: "http://www.comediedeschampselysees.com/"
+url: "www.comediedeschampselysees.com/"
 directors: "Stéphanie Fagadau-Mercier"
 seating: "232"
 email: "contact@comediedeschampselysees.com"

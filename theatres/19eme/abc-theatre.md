@@ -1,6 +1,6 @@
 ---
 title: "ABC Théâtre"
-url: "http://abc-theatre.e-monsite.com/"
+url: "abc-theatre.e-monsite.com/"
 directors: ""
 seating: "48"
 email: "abctheatre@hotmail.fr"

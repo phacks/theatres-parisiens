@@ -1,6 +1,6 @@
 ---
 title: "Conservatoire Municipal Charles Munch"
-url: "http://conservatoire11.free.fr/"
+url: "conservatoire11.free.fr/"
 directors: "Yves GRUSON"
 seating: "149"
 email: "conservatoire11@paris.fr"

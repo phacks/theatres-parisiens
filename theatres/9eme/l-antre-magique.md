@@ -1,6 +1,6 @@
 ---
 title: "L'Antre Magique"
-url: "http://www.antremagique.eu/"
+url: "www.antremagique.eu/"
 directors: ""
 seating: "50"
 email: "antremagique@gmail.com"

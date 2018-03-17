@@ -1,6 +1,6 @@
 ---
 title: "Théâtre de Verre"
-url: "http://theatredeverre.org/"
+url: "theatredeverre.org/"
 directors: "Luis Pasina"
 seating: ""
 email: "theatredeverre@hotmail.fr"

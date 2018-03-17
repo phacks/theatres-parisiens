@@ -1,6 +1,6 @@
 ---
-title: "Théâtre Dalayrac / Le Soum Soum"
-url: "le-soum-soum.fr"
+title: "Le Soum Soum"
+url: "le-soum-soum.com"
 directors: ""
 seating: ""
 email: ""
@@ -11,7 +11,7 @@ arrondissement: 2
 ---
 
 
-Le **théâtre Delayrac** est situé sur cette rue ouverte en 1826 en même temps que la [rue Marsollier](https://fr.wikipedia.org/wiki/Rue_Marsollier "Rue Marsollier") comme rue de pourtour de l'[Opéra-Comique](https://fr.wikipedia.org/wiki/Op%C3%A9ra-Comique "Opéra-Comique") ([salle Ventadour](https://fr.wikipedia.org/wiki/Salle_Ventadour "Salle Ventadour")) qui fut construit cette année-là sur l'ancien emplacement de l'ex-Hôtel de Lionne. Elle reçut en 1829 le nom du compositeur [**Nicolas Dalayrac**](https://fr.wikipedia.org/wiki/Nicolas_Dalayrac "Nicolas Dalayrac").
+Le **théâtre Delayrac** est situé sur cette rue ouverte en 1826 en même temps que la [rue Marsollier](fr.wikipedia.org/wiki/Rue_Marsollier "Rue Marsollier") comme rue de pourtour de l'[Opéra-Comique](fr.wikipedia.org/wiki/Op%C3%A9ra-Comique "Opéra-Comique") ([salle Ventadour](fr.wikipedia.org/wiki/Salle_Ventadour "Salle Ventadour")) qui fut construit cette année-là sur l'ancien emplacement de l'ex-Hôtel de Lionne. Elle reçut en 1829 le nom du compositeur [**Nicolas Dalayrac**](fr.wikipedia.org/wiki/Nicolas_Dalayrac "Nicolas Dalayrac").
 
 ![Théâtre Dalayrac](../images/2eme/theatre-dalayrac--le-soum-soum/theatre-dalayrac--le-soum-soum-1.png)
 

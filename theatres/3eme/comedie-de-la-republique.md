@@ -1,6 +1,6 @@
 ---
 title: "Comédie de la République"
-url: "www.comedierepublique.com/"
+url: ""
 directors: ""
 seating: "200"
 email: ""

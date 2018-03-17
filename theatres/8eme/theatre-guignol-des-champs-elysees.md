@@ -1,6 +1,6 @@
 ---
 title: "Théâtre Guignol des Champs-Elysées"
-url: "https://www.theatreguignol.fr/"
+url: "www.theatreguignol.fr/"
 directors: ""
 seating: ""
 email: "theatreguignol@wanadoo.fr"

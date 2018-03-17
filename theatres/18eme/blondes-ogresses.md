@@ -1,6 +1,6 @@
 ---
 title: "Blondes Ogresses"
-url: "http://spectaclevivant.fr/blondes/salle.html"
+url: "spectaclevivant.fr/blondes/salle.html"
 directors: "Françoise Gatti"
 seating: "36"
 email: ""

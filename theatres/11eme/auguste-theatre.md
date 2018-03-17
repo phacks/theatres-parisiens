@@ -1,6 +1,6 @@
 ---
 title: "Auguste Théâtre"
-url: "http://augustetheatre.com/"
+url: "augustetheatre.com/"
 directors: "Marie Hasse"
 seating: ""
 email: "augustetheatre@gmail.com"
