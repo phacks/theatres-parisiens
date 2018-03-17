@@ -1,6 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `Théâtres Parisiens`,
+    siteUrl: `http://theatres-parisiens.fr`,
   },
   plugins: [
     {
@@ -32,6 +33,7 @@ module.exports = {
       },
     },
     `gatsby-plugin-react-helmet`,
-    `gatsby-plugin-styled-components`
+    `gatsby-plugin-styled-components`,
+    `gatsby-plugin-sitemap`
   ],
 }
