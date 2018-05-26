@@ -10,7 +10,7 @@ fax: ""
 arrondissement: 12
 ---
 
-![Théâtre Astral](../images/12eme/theatre-astral/theatre-astral-1.jpg)
+![Théâtre Astral](../images/12eme/theatre-astral/theatre-astral-2.jpg)
 
 Le **Théâtre Astral** vous accueille dans sa salle de spectacle du Parc Floral de Paris, au cœur du bois de Vincennes. Il vous présente tout au long de l'année une sélection de spectacles spécialement destinés aux enfants, le plus souvent dès l'âge de 3 ans.
 
