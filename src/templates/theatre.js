@@ -1,9 +1,10 @@
 import React from "react"
 import {Helmet} from "react-helmet"
 import styled from "styled-components"
-import Link from 'gatsby-link'
+import { graphql, Link } from 'gatsby'
 
-import { media } from '../layouts/style-utils';
+import { media } from '../components/style-utils';
+import Layout from "../components/layout"
 
 const SubHeader = styled.h2`
   font-family: 'IBM Plex Sans';
@@ -84,7 +85,7 @@ const InfoTable = styled.table`
 export default ({ data }) => {
   const post = data.markdownRemark
   return (
-    <div>
+    <Layout>
        <Helmet>
           <title>{post.frontmatter.title}</title>
         </Helmet>
@@ -129,12 +130,12 @@ export default ({ data }) => {
         </InfoTable>
       </InfoWrapper>
       <Description dangerouslySetInnerHTML={{ __html: post.html }} />
-    </div>
+    </Layout>
   )
 }
 
 export const query = graphql`
-  query BlogPostQuery($slug: String!) {
+  query ($slug: String!) {
     markdownRemark(fields: { slug: { eq: $slug } }) {
       html
       frontmatter {

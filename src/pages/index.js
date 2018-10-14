@@ -1,9 +1,11 @@
 import React from 'react'
 import styled from 'styled-components'
-import Link from 'gatsby-link'
+import { graphql, Link } from 'gatsby'
 import groupBy from 'lodash/groupBy'
 import keys from 'lodash/keys'
 import map from 'lodash/map'
+
+import Layout from "../components/layout"
 
 const ArrondissmentList = styled.div`
   margin-bottom: 30px;
@@ -157,7 +159,7 @@ export default ({ data }) => {
       (node) => node.frontmatter.arrondissement
     )
   return (
-    <div>
+    <Layout>
       <Foreword />
       <Delimiter />
       {keys(theatresByArrondissement).map((arrondissement) =>
@@ -170,12 +172,12 @@ export default ({ data }) => {
       )}
       <Delimiter />
       <Afterword />
-    </div>
+    </Layout>
   )
 }
 
 export const query = graphql`
-  query IndexQuery {
+  {
     allMarkdownRemark {
       totalCount
       edges {
