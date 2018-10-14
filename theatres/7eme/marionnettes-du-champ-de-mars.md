@@ -1,7 +1,7 @@
 ---
 title: "Marionnettes du Champ de Mars"
 url: "www.guignolduchampdemars.fr/"
-directors: "François Allain"
+directors: "Luigi Tirelli"
 seating: ""
 email: "guignolduchampdemars@yahoo.fr"
 address: "allée du Général Marguerite"
