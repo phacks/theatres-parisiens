@@ -52,6 +52,7 @@ const Layout = ({ children }) => (
         { name: 'description', content: 'Annuaire illustré et détaillé des théâtres parisiens.' },
         { name: 'keywords', content: 'theatre, paris' },
       ]}
+      lang="fr"
     />
     <Wrapper>
       <HeaderWrapper>
