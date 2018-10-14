@@ -1,6 +1,5 @@
 import React from 'react'
 import PropTypes from 'prop-types'
-import Link from 'gatsby-link'
 import Helmet from 'react-helmet'
 import styled from 'styled-components'
 
@@ -45,7 +44,7 @@ const ContentWrapper = styled.div`
   `}
 `
 
-const TemplateWrapper = ({ children }) => (
+const Layout = ({ children }) => (
   <div>
     <Helmet
       title="Théâtres Parisiens"
@@ -59,14 +58,14 @@ const TemplateWrapper = ({ children }) => (
         <Header>Théâtres Parisiens</Header>
       </HeaderWrapper>
       <ContentWrapper>
-        {children()}
+        {children}
       </ContentWrapper>
     </Wrapper>
   </div>
 )
 
-TemplateWrapper.propTypes = {
+Layout.propTypes = {
   children: PropTypes.func,
 }
 
-export default TemplateWrapper
+export default Layout
