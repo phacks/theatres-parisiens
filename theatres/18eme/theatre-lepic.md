@@ -1,12 +1,12 @@
 ---
-title: "Théâtre Lepic"
-url: "https://theatrelepic.com/"
-directors: "Adrien Castelnau"
-seating: "96"
-email: "evenementiel@theatrelepic.com"
-address: "1 avenue Junot"
-phone: "01 42 54 15 12"
-fax: "01 42 54 73 42"
+title: Théâtre Lepic
+url: 'https://theatrelepic.com/'
+directors: Adrien Castelnau
+seating: '150'
+email: evenementiel@theatrelepic.com
+address: 1 avenue Junot
+phone: 01 42 54 15 12
+fax: 01 42 54 73 42
 arrondissement: 18
 ---
 
