@@ -2,7 +2,7 @@
 title: Théâtre Lepic
 url: theatrelepic.com/
 directors: Adrien Castelnau
-seating: '9'
+seating: '96'
 email: evenementiel@theatrelepic.com
 address: 1 avenue Junot
 phone: 01 42 54 15 12
