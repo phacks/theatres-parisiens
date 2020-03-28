@@ -1,18 +1,19 @@
-import React from "react"
-import {Helmet} from "react-helmet"
-import styled from "styled-components"
-import { graphql, Link } from 'gatsby'
+import React from "react";
+import { Helmet } from "react-helmet";
+import styled from "styled-components";
+import { graphql, Link } from "gatsby";
+import { remarkForm } from "gatsby-tinacms-remark";
 
-import { media } from '../components/style-utils';
-import Layout from "../components/layout"
+import { media } from "../components/style-utils";
+import Layout from "../components/layout";
 
 const SubHeader = styled.h2`
-  font-family: 'IBM Plex Sans';
+  font-family: "IBM Plex Sans";
   margin: auto;
   font-weight: normal;
   margin-top: 30px;
   margin-bottom: 30px;
-`
+`;
 
 const Description = styled.div`
   max-width: 900px;
@@ -21,27 +22,27 @@ const Description = styled.div`
 
   a {
     color: black;
-    -webkit-text-decoration-color: #409CF0;
-    text-decoration-color: #409CF0;
+    -webkit-text-decoration-color: #409cf0;
+    text-decoration-color: #409cf0;
     &:hover {
-      color: #409CF0;
+      color: #409cf0;
     }
   }
-`
+`;
 
 const StyledLink = styled(Link)`
   color: black;
-  -webkit-text-decoration-color: #409CF0;
-  text-decoration-color: #409CF0;
+  -webkit-text-decoration-color: #409cf0;
+  text-decoration-color: #409cf0;
   &:hover {
-    color: #409CF0;
+    color: #409cf0;
   }
-`
+`;
 
 const InfoWrapper = styled.div`
   display: flex;
   flex-direction: row;
-`
+`;
 
 const InfoTable = styled.table`
   font-family: "IBM Plex Mono";
@@ -74,27 +75,23 @@ const InfoTable = styled.table`
 
   a {
     color: black;
-    -webkit-text-decoration-color: #409CF0;
-    text-decoration-color: #409CF0;
+    -webkit-text-decoration-color: #409cf0;
+    text-decoration-color: #409cf0;
     &:hover {
-      color: #409CF0;
+      color: #409cf0;
     }
   }
-`
+`;
 
-export default ({ data }) => {
-  const post = data.markdownRemark
+export default remarkForm(({ data }) => {
+  const post = data.markdownRemark;
   return (
     <Layout>
-       <Helmet>
-          <title>{post.frontmatter.title}</title>
-        </Helmet>
-      <StyledLink to={'/'}>
-        Retour à la liste des théâtres
-      </StyledLink>
-      <SubHeader>
-        {post.frontmatter.title}
-      </SubHeader>
+      <Helmet>
+        <title>{post.frontmatter.title}</title>
+      </Helmet>
+      <StyledLink to={"/"}>Retour à la liste des théâtres</StyledLink>
+      <SubHeader>{post.frontmatter.title}</SubHeader>
       <InfoWrapper>
         <InfoTable>
           <tbody>
@@ -116,7 +113,11 @@ export default ({ data }) => {
             </tr>
             <tr>
               <td>Site</td>
-              <td><a href={`http://${post.frontmatter.url}`}>{post.frontmatter.url}</a></td>
+              <td>
+                <a href={`http://${post.frontmatter.url}`}>
+                  {post.frontmatter.url}
+                </a>
+              </td>
             </tr>
             <tr>
               <td>Téléphone</td>
@@ -131,11 +132,11 @@ export default ({ data }) => {
       </InfoWrapper>
       <Description dangerouslySetInnerHTML={{ __html: post.html }} />
     </Layout>
-  )
-}
+  );
+});
 
 export const query = graphql`
-  query ($slug: String!) {
+  query($slug: String!) {
     markdownRemark(fields: { slug: { eq: $slug } }) {
       html
       frontmatter {
@@ -148,6 +149,7 @@ export const query = graphql`
         phone
         fax
       }
+      ...TinaRemark
     }
   }
-`
+`;

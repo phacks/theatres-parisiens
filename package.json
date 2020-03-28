@@ -4,21 +4,24 @@
   "version": "1.0.0",
   "author": "Nicolas Goutay <nicolas.goutay@gmail.com>",
   "dependencies": {
-    "babel-plugin-styled-components": "^1.10.6",
-    "gatsby": "^2.17.10",
-    "gatsby-plugin-google-analytics": "^2.1.24",
-    "gatsby-plugin-react-helmet": "^3.1.13",
-    "gatsby-plugin-sharp": "^2.2.36",
-    "gatsby-plugin-sitemap": "^2.2.19",
-    "gatsby-plugin-styled-components": "^3.1.11",
-    "gatsby-remark-copy-linked-files": "^2.1.28",
-    "gatsby-remark-images": "^3.1.29",
-    "gatsby-source-filesystem": "^2.1.35",
-    "gatsby-transformer-remark": "^2.6.32",
-    "react": "^16.11.0",
-    "react-dom": "^16.11.0",
+    "babel-plugin-styled-components": "^1.10.7",
+    "gatsby": "^2.20.8",
+    "gatsby-plugin-google-analytics": "^2.2.2",
+    "gatsby-plugin-react-helmet": "^3.2.1",
+    "gatsby-plugin-sharp": "^2.5.3",
+    "gatsby-plugin-sitemap": "^2.3.1",
+    "gatsby-plugin-styled-components": "^3.2.1",
+    "gatsby-plugin-tinacms": "^0.1.29",
+    "gatsby-remark-copy-linked-files": "^2.2.1",
+    "gatsby-remark-images": "^3.2.1",
+    "gatsby-source-filesystem": "^2.2.2",
+    "gatsby-tinacms-git": "^0.4.3",
+    "gatsby-tinacms-remark": "^0.7.9",
+    "gatsby-transformer-remark": "^2.7.1",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
     "react-helmet": "^5.2.1",
-    "styled-components": "^4.4.1"
+    "styled-components": "^5.0.1"
   },
   "keywords": [
     "gatsby"
@@ -32,6 +35,6 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "devDependencies": {
-    "prettier": "^1.8.2"
+    "prettier": "^2.0.2"
   }
 }
