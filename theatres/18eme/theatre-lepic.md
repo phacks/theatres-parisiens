@@ -1,6 +1,6 @@
 ---
 title: Théâtre Lepic
-url: theatrelepic.com/
+url: 'https://theatrelepic.com/'
 directors: Adrien Castelnau
 seating: '150'
 email: evenementiel@theatrelepic.com
