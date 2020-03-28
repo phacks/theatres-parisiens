@@ -1,14 +1,12 @@
 ---
-title: "Théâtre Libre (anciennement Le Comedia)"
-url: "www.le-comedia.fr/"
-directors: "Alexis Trias"
-seating: "Grande salle 934
-Petite salle 154
-"
-email: "contact@le-comedia.fr"
-address: "4 boulevard de Strasbourg"
-phone: "01 42 38 97 14"
-fax: ""
+title: Théâtre Libre (anciennement Le Comedia)
+url: www.le-comedia.fr/
+directors: Alexis Trias
+seating: 'Grande salle 934, Petite salle 154 '
+email: contact@le-comedia.fr
+address: 4 boulevard de Strasbourg
+phone: 01 42 38 97 14
+fax: ''
 arrondissement: 10
 ---
 
