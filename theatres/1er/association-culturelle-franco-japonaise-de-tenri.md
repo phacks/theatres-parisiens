@@ -20,5 +20,3 @@ L’Espace Culturel Bertin Poirée, est un lieu dédié aux expositions et aux a
 ![Association Culturelle Franco Japonaise de Tenri](../images/1er/association-culturelle-franco-japonaise-de-tenri/association-culturelle-franco-japonaise-de-tenri-1.jpg)
 
 L’Espace Culturel Bertin Poirée propose des spectacles de danse et de butô, du théâtre et des concerts. Trois festivals annuels sont organisés : Dance Box, Festival Buto et Festival Bertin Poirée.
-
-Micro test test 12
