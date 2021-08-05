@@ -1,6 +1,6 @@
 ---
 title: "Les Rendez-vous d'Ailleurs"
-url: "www.lesrendezvousdailleurs.com/"
+url: "https://www.lesrdvdailleurs.fr/"
 directors: "Hélène Perraguin, Philippe Bohée"
 seating: "50"
 email: "contact@lesrendezvousdailleurs.com"
